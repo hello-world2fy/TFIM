@@ -1,0 +1,17 @@
+{
+  "studies_completed": 18,
+  "total_optuna_trials": 1800,
+  "saved_trials": 180,
+  "steps_per_saved_trial": 1000,
+  "decoded_checkpoint_files": 4320,
+  "original_files_unchanged": 2008,
+  "optuna_fail_trials": 0,
+  "original_plotter_g_values": [
+    1.0,
+    1.5
+  ],
+  "original_plotter_angles_per_g": 13,
+  "plotter_exit_code": 0,
+  "idempotent_batch_exit_code": 0,
+  "rbm_checkpoint_py_found": false
+}

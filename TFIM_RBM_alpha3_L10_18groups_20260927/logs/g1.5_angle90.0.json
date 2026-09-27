@@ -1,0 +1,69 @@
+{
+  "g": 1.5,
+  "angle_degrees": 90.0,
+  "status": "complete",
+  "total_trials": 100,
+  "complete_trials": 21,
+  "saved_trials": 10,
+  "steps": 1000,
+  "checkpoints": [
+    {
+      "trial": 64,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL64/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 74,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL74/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 48,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL48/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 61,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL61/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 10,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL10/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 63,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL63/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 21,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL21/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 42,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL42/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 12,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL12/checkpoint_variables_1000.mpack"
+    },
+    {
+      "trial": 11,
+      "steps": 1000,
+      "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL11/checkpoint_variables_1000.mpack"
+    }
+  ],
+  "sampler": "TPESampler",
+  "pruner": "MedianPruner",
+  "versions": {
+    "jax": "0.7.2",
+    "netket": "3.20.5",
+    "optuna": "4.8.0",
+    "flax": "0.12.0"
+  }
+}

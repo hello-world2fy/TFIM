@@ -1,0 +1,434 @@
+[
+  {
+    "g": 1.0,
+    "angle": 0.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 48,
+      "PRUNED": 52
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE0.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      68,
+      12,
+      77,
+      52,
+      41,
+      72,
+      55,
+      65,
+      89,
+      46
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 15.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 56,
+      "PRUNED": 44
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE15.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      90,
+      52,
+      71,
+      72,
+      98,
+      91,
+      51,
+      70,
+      69,
+      45
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 22.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 49,
+      "PRUNED": 51
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE22.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      67,
+      64,
+      65,
+      69,
+      63,
+      81,
+      88,
+      73,
+      78,
+      66
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 37.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 51,
+      "PRUNED": 49
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE37.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      60,
+      63,
+      93,
+      87,
+      62,
+      82,
+      38,
+      77,
+      90,
+      95
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 45.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 24,
+      "PRUNED": 76
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE45.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      63,
+      31,
+      91,
+      41,
+      51,
+      28,
+      21,
+      46,
+      71,
+      53
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 60.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 42,
+      "PRUNED": 58
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE60.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      74,
+      23,
+      73,
+      42,
+      83,
+      63,
+      72,
+      71,
+      94,
+      77
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 67.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 34,
+      "PRUNED": 66
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE67.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      61,
+      39,
+      43,
+      91,
+      50,
+      64,
+      63,
+      32,
+      67,
+      92
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 82.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 36,
+      "PRUNED": 64
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE82.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      13,
+      81,
+      74,
+      91,
+      67,
+      22,
+      59,
+      76,
+      70,
+      92
+    ]
+  },
+  {
+    "g": 1.0,
+    "angle": 90.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 37,
+      "PRUNED": 63
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE90.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      62,
+      71,
+      63,
+      23,
+      97,
+      81,
+      22,
+      82,
+      72,
+      78
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 0.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 33,
+      "PRUNED": 67
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE0.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      23,
+      74,
+      20,
+      31,
+      91,
+      71,
+      88,
+      32,
+      75,
+      24
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 15.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 44,
+      "PRUNED": 56
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      21,
+      53,
+      13,
+      92,
+      84,
+      98,
+      31,
+      46,
+      86,
+      50
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 22.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 46,
+      "PRUNED": 54
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE22.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      95,
+      39,
+      92,
+      46,
+      93,
+      47,
+      37,
+      61,
+      81,
+      42
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 37.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 52,
+      "PRUNED": 48
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE37.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      40,
+      41,
+      93,
+      39,
+      38,
+      62,
+      42,
+      91,
+      65,
+      71
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 45.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 28,
+      "PRUNED": 72
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE45.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      86,
+      95,
+      91,
+      74,
+      82,
+      77,
+      66,
+      92,
+      83,
+      2
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 60.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 41,
+      "PRUNED": 59
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE60.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      57,
+      97,
+      82,
+      74,
+      83,
+      91,
+      73,
+      16,
+      30,
+      55
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 67.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 23,
+      "PRUNED": 77
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE67.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      13,
+      62,
+      53,
+      71,
+      22,
+      21,
+      61,
+      66,
+      33,
+      51
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 82.5,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 37,
+      "PRUNED": 63
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE82.5/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      31,
+      45,
+      41,
+      21,
+      10,
+      36,
+      86,
+      93,
+      12,
+      56
+    ]
+  },
+  {
+    "g": 1.5,
+    "angle": 90.0,
+    "status": "complete",
+    "states": {
+      "COMPLETE": 21,
+      "PRUNED": 79
+    },
+    "steps": 1000,
+    "saved_trials": 10,
+    "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000",
+    "best_trials": [
+      64,
+      74,
+      48,
+      61,
+      10,
+      63,
+      21,
+      42,
+      12,
+      11
+    ]
+  }
+]

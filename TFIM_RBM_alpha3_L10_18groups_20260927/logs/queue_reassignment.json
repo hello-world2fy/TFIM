@@ -1,0 +1,14 @@
+[
+  {
+    "pid": 2336173,
+    "rss_kb": 16880,
+    "log": "/home/tiger/project/logWFE_for_TFIM/logs/alpha3_completion/g1.5_angle15.0_20260927_041831.log",
+    "reason": "Unstarted queued worker replaced by first-available-GPU worker; no study/trial existed."
+  },
+  {
+    "pid": 2341932,
+    "rss_kb": 17068,
+    "log": "/home/tiger/project/logWFE_for_TFIM/logs/alpha3_completion/g1.5_angle15.0_20260927_044055.log",
+    "reason": "Unstarted queued worker replaced by first-available-GPU worker; no study/trial existed."
+  }
+]

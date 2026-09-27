@@ -1,0 +1,42 @@
+[
+  {
+    "session": 4303,
+    "exit_code": 1,
+    "note": "Unstarted duplicate queue cancelled and reassigned; see queue_reassignment.json. No Optuna FAIL trial."
+  },
+  {
+    "session": 69261,
+    "exit_code": 1,
+    "note": "Unstarted duplicate queue cancelled and reassigned; see queue_reassignment.json. No Optuna FAIL trial."
+  },
+  {
+    "session": 26286,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  },
+  {
+    "session": 8726,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  },
+  {
+    "session": 2558,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  },
+  {
+    "session": 73980,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  },
+  {
+    "session": 16129,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  },
+  {
+    "session": 71803,
+    "exit_code": 0,
+    "note": "Worker completed successfully."
+  }
+]

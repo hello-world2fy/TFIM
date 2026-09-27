@@ -1,0 +1,106 @@
+ACQUIRED physical GPU 0 for g=1.5 angle=15.0
+[I 2026-09-27 05:01:05,220] A new study created in RDB with name: PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/CLIPPING0DYNAMIC0NITER1000
+✅ Created Optuna study: PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/CLIPPING0DYNAMIC0NITER1000
+✅ Workspace ready. Storage: sqlite:///PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/CLIPPING0DYNAMIC0NITER1000.db
+DEVICES [CudaDevice(id=0)] SAMPLER TPESampler
+[I 2026-09-27 05:01:18,172] Trial 0 finished with value: -16.310168838232986 and parameters: {'learning_rate': 0.00011045208038979686, 'diag_shift': 0.0007782470027581765}. Best is trial 0 with value: -16.310168838232986.
+[I 2026-09-27 05:01:24,648] Trial 1 finished with value: -16.31870524781853 and parameters: {'learning_rate': 0.00011427370605771775, 'diag_shift': 0.000546892793926255}. Best is trial 1 with value: -16.31870524781853.
+[I 2026-09-27 05:01:28,875] Trial 2 finished with value: -16.26002326984094 and parameters: {'learning_rate': 0.00019085343425794335, 'diag_shift': 0.09293584649610326}. Best is trial 1 with value: -16.31870524781853.
+[I 2026-09-27 05:01:38,009] Trial 3 finished with value: -16.535146967292185 and parameters: {'learning_rate': 0.002379409256485651, 'diag_shift': 0.0024739527575543914}. Best is trial 3 with value: -16.535146967292185.
+[I 2026-09-27 05:01:42,687] Trial 4 finished with value: -16.504860690876935 and parameters: {'learning_rate': 0.0011560100280174732, 'diag_shift': 0.07120793504481353}. Best is trial 3 with value: -16.535146967292185.
+[I 2026-09-27 05:01:49,293] Trial 5 finished with value: -16.453581376935666 and parameters: {'learning_rate': 0.0002534173365099368, 'diag_shift': 0.0015865255124601543}. Best is trial 3 with value: -16.535146967292185.
+[I 2026-09-27 05:01:49,389] Trial 6 pruned. 
+[I 2026-09-27 05:01:55,353] Trial 7 finished with value: -16.525157106847388 and parameters: {'learning_rate': 0.0015418946238590187, 'diag_shift': 0.015757933708922058}. Best is trial 3 with value: -16.535146967292185.
+[I 2026-09-27 05:02:12,721] Trial 8 finished with value: -16.531949885549004 and parameters: {'learning_rate': 0.0008830372606309342, 'diag_shift': 7.65448002028972e-05}. Best is trial 3 with value: -16.535146967292185.
+[I 2026-09-27 05:02:12,820] Trial 9 pruned. 
+[I 2026-09-27 05:03:02,000] Trial 10 finished with value: -16.535254642905272 and parameters: {'learning_rate': 0.006398739076081874, 'diag_shift': 1.2859827616058232e-05}. Best is trial 10 with value: -16.535254642905272.
+[I 2026-09-27 05:03:38,272] Trial 11 finished with value: -16.53525432309847 and parameters: {'learning_rate': 0.005239477230871251, 'diag_shift': 2.3108942541274124e-05}. Best is trial 10 with value: -16.535254642905272.
+[I 2026-09-27 05:04:38,859] Trial 12 finished with value: -16.53525463692229 and parameters: {'learning_rate': 0.009507815466366016, 'diag_shift': 1.4097818437279209e-05}. Best is trial 10 with value: -16.535254642905272.
+[I 2026-09-27 05:05:37,919] Trial 13 finished with value: -16.53525471873219 and parameters: {'learning_rate': 0.008941282109270334, 'diag_shift': 1.3461875647557414e-05}. Best is trial 13 with value: -16.53525471873219.
+[I 2026-09-27 05:05:59,025] Trial 14 finished with value: -16.535253023196475 and parameters: {'learning_rate': 0.0038627324632448503, 'diag_shift': 8.822059732629027e-05}. Best is trial 13 with value: -16.53525471873219.
+[I 2026-09-27 05:06:31,236] Trial 15 finished with value: -16.535254119389574 and parameters: {'learning_rate': 0.008743488612801446, 'diag_shift': 7.085088403858614e-05}. Best is trial 13 with value: -16.53525471873219.
+[I 2026-09-27 05:06:31,338] Trial 16 pruned. 
+[I 2026-09-27 05:06:46,803] Trial 17 finished with value: -16.535249548168245 and parameters: {'learning_rate': 0.0028518553874273185, 'diag_shift': 0.0002270134809774479}. Best is trial 13 with value: -16.53525471873219.
+[I 2026-09-27 05:06:46,914] Trial 18 pruned. 
+[I 2026-09-27 05:06:47,025] Trial 19 pruned. 
+[I 2026-09-27 05:06:55,285] Trial 20 finished with value: -16.53515376444385 and parameters: {'learning_rate': 0.005322380977608645, 'diag_shift': 0.008449243907192535}. Best is trial 13 with value: -16.53525471873219.
+[I 2026-09-27 05:08:04,307] Trial 21 finished with value: -16.535254736077825 and parameters: {'learning_rate': 0.00892289461045867, 'diag_shift': 1.0395750248760725e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:08:47,531] Trial 22 finished with value: -16.535254608267596 and parameters: {'learning_rate': 0.009062157919822471, 'diag_shift': 2.791402971390242e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:08:47,644] Trial 23 pruned. 
+[I 2026-09-27 05:09:22,658] Trial 24 finished with value: -16.535254264323882 and parameters: {'learning_rate': 0.004408769191234049, 'diag_shift': 2.7653650330934308e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:09:44,084] Trial 25 finished with value: -16.53525145637105 and parameters: {'learning_rate': 0.00612351273233006, 'diag_shift': 0.00020411920896757277}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:09:44,196] Trial 26 pruned. 
+[I 2026-09-27 05:10:39,889] Trial 27 finished with value: -16.53525460229951 and parameters: {'learning_rate': 0.009703271599759197, 'diag_shift': 1.667344731341256e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:10:39,998] Trial 28 pruned. 
+[I 2026-09-27 05:10:40,103] Trial 29 pruned. 
+[I 2026-09-27 05:10:48,980] Trial 30 pruned. 
+[I 2026-09-27 05:11:57,530] Trial 31 finished with value: -16.535254696855876 and parameters: {'learning_rate': 0.009476477146219827, 'diag_shift': 1.08742479630939e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:11:57,643] Trial 32 pruned. 
+[I 2026-09-27 05:12:42,385] Trial 33 finished with value: -16.53525453046465 and parameters: {'learning_rate': 0.006635383880979575, 'diag_shift': 1.9138645154647386e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:12:42,498] Trial 34 pruned. 
+[I 2026-09-27 05:12:42,609] Trial 35 pruned. 
+[I 2026-09-27 05:12:42,721] Trial 36 pruned. 
+[I 2026-09-27 05:12:42,831] Trial 37 pruned. 
+[I 2026-09-27 05:12:46,774] Trial 38 pruned. 
+[I 2026-09-27 05:12:46,883] Trial 39 pruned. 
+[I 2026-09-27 05:12:46,995] Trial 40 pruned. 
+[I 2026-09-27 05:13:41,096] Trial 41 finished with value: -16.53525465263728 and parameters: {'learning_rate': 0.009890473684129686, 'diag_shift': 1.7573852637589038e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:13:41,304] Trial 42 pruned. 
+[I 2026-09-27 05:14:14,354] Trial 43 finished with value: -16.53525421112343 and parameters: {'learning_rate': 0.007713799875878286, 'diag_shift': 5.709558239119181e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:14:14,459] Trial 44 pruned. 
+[I 2026-09-27 05:14:14,565] Trial 45 pruned. 
+[I 2026-09-27 05:15:14,743] Trial 46 finished with value: -16.53525469605414 and parameters: {'learning_rate': 0.009965315000574073, 'diag_shift': 1.4102992123675869e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:15:14,855] Trial 47 pruned. 
+[I 2026-09-27 05:15:14,955] Trial 48 pruned. 
+[I 2026-09-27 05:15:15,061] Trial 49 pruned. 
+[I 2026-09-27 05:16:06,048] Trial 50 finished with value: -16.53525466233701 and parameters: {'learning_rate': 0.007241041363449164, 'diag_shift': 1.4956617640302322e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:16:59,566] Trial 51 finished with value: -16.535254637191002 and parameters: {'learning_rate': 0.009848349392559639, 'diag_shift': 1.5236996101621003e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:17:37,438] Trial 52 finished with value: -16.535254336208776 and parameters: {'learning_rate': 0.006993376821472203, 'diag_shift': 3.6986802597161055e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:18:30,941] Trial 53 finished with value: -16.535254730257158 and parameters: {'learning_rate': 0.007063201386235643, 'diag_shift': 1.0146566995745769e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:18:31,052] Trial 54 pruned. 
+[I 2026-09-27 05:19:27,965] Trial 55 finished with value: -16.53525452212228 and parameters: {'learning_rate': 0.007134364313243706, 'diag_shift': 1.0502002253379953e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:19:28,074] Trial 56 pruned. 
+[I 2026-09-27 05:19:28,176] Trial 57 pruned. 
+[I 2026-09-27 05:19:28,283] Trial 58 pruned. 
+[I 2026-09-27 05:19:28,386] Trial 59 pruned. 
+[I 2026-09-27 05:19:33,822] Trial 60 pruned. 
+[I 2026-09-27 05:20:30,178] Trial 61 finished with value: -16.53525457504977 and parameters: {'learning_rate': 0.00825972849152151, 'diag_shift': 1.4412995563170789e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:20:30,290] Trial 62 pruned. 
+[I 2026-09-27 05:21:21,710] Trial 63 finished with value: -16.535254619216957 and parameters: {'learning_rate': 0.008313330387707209, 'diag_shift': 1.567055385599146e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:21:42,931] Trial 64 pruned. 
+[I 2026-09-27 05:21:43,044] Trial 65 pruned. 
+[I 2026-09-27 05:21:43,152] Trial 66 pruned. 
+[I 2026-09-27 05:21:43,254] Trial 67 pruned. 
+[I 2026-09-27 05:21:43,360] Trial 68 pruned. 
+[I 2026-09-27 05:21:43,470] Trial 69 pruned. 
+[I 2026-09-27 05:22:00,392] Trial 70 pruned. 
+[I 2026-09-27 05:22:00,644] Trial 71 pruned. 
+[I 2026-09-27 05:22:00,748] Trial 72 pruned. 
+[I 2026-09-27 05:22:56,691] Trial 73 finished with value: -16.535254661920906 and parameters: {'learning_rate': 0.008134307713989208, 'diag_shift': 1.2852414391076519e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:22:56,796] Trial 74 pruned. 
+[I 2026-09-27 05:23:39,402] Trial 75 finished with value: -16.53525445013904 and parameters: {'learning_rate': 0.009984907826598612, 'diag_shift': 3.8595603241820956e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:24:28,438] Trial 76 finished with value: -16.53525455998015 and parameters: {'learning_rate': 0.007888253269070456, 'diag_shift': 2.635784041114454e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:24:28,552] Trial 77 pruned. 
+[I 2026-09-27 05:24:28,659] Trial 78 pruned. 
+[I 2026-09-27 05:24:28,764] Trial 79 pruned. 
+[I 2026-09-27 05:25:10,210] Trial 80 finished with value: -16.535254582878885 and parameters: {'learning_rate': 0.008176212308045319, 'diag_shift': 3.100842507096706e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:25:10,330] Trial 81 pruned. 
+[I 2026-09-27 05:25:10,440] Trial 82 pruned. 
+[I 2026-09-27 05:25:10,557] Trial 83 pruned. 
+[I 2026-09-27 05:26:06,571] Trial 84 finished with value: -16.53525470568425 and parameters: {'learning_rate': 0.00871970011785043, 'diag_shift': 1.2934785279269554e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:27:01,668] Trial 85 finished with value: -16.535254656671956 and parameters: {'learning_rate': 0.008471562625210842, 'diag_shift': 1.4035481244842515e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:27:56,348] Trial 86 finished with value: -16.535254695563307 and parameters: {'learning_rate': 0.008370259573552263, 'diag_shift': 1.3125374182806536e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:27:56,457] Trial 87 pruned. 
+[I 2026-09-27 05:27:56,572] Trial 88 pruned. 
+[I 2026-09-27 05:27:56,683] Trial 89 pruned. 
+[I 2026-09-27 05:27:56,798] Trial 90 pruned. 
+[I 2026-09-27 05:28:47,523] Trial 91 finished with value: -16.535254634247288 and parameters: {'learning_rate': 0.008695063653711338, 'diag_shift': 1.5707334677730384e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:29:48,716] Trial 92 finished with value: -16.53525471720564 and parameters: {'learning_rate': 0.008729001378930911, 'diag_shift': 1.2548500480327956e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:29:48,832] Trial 93 pruned. 
+[I 2026-09-27 05:30:52,698] Trial 94 finished with value: -16.5352546513462 and parameters: {'learning_rate': 0.009970530610990663, 'diag_shift': 1.3011347796886119e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:30:52,809] Trial 95 pruned. 
+[I 2026-09-27 05:30:52,919] Trial 96 pruned. 
+[I 2026-09-27 05:30:53,036] Trial 97 pruned. 
+[I 2026-09-27 05:31:46,643] Trial 98 finished with value: -16.535254700601406 and parameters: {'learning_rate': 0.008646417509204488, 'diag_shift': 1.6145593979990873e-05}. Best is trial 21 with value: -16.535254736077825.
+[I 2026-09-27 05:31:46,746] Trial 99 pruned. 
+VALIDATED {"g": 1.5, "angle_degrees": 15.0, "status": "complete", "total_trials": 100, "complete_trials": 44, "saved_trials": 10, "steps": 1000, "checkpoints": [{"trial": 21, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL21/checkpoint_variables_1000.mpack"}, {"trial": 53, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL53/checkpoint_variables_1000.mpack"}, {"trial": 13, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL13/checkpoint_variables_1000.mpack"}, {"trial": 92, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL92/checkpoint_variables_1000.mpack"}, {"trial": 84, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL84/checkpoint_variables_1000.mpack"}, {"trial": 98, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL98/checkpoint_variables_1000.mpack"}, {"trial": 31, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL31/checkpoint_variables_1000.mpack"}, {"trial": 46, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL46/checkpoint_variables_1000.mpack"}, {"trial": 86, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL86/checkpoint_variables_1000.mpack"}, {"trial": 50, "steps": 1000, "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL50/checkpoint_variables_1000.mpack"}], "sampler": "TPESampler", "pruner": "MedianPruner", "versions": {"jax": "0.7.2", "netket": "3.20.5", "optuna": "4.8.0", "flax": "0.12.0"}}
