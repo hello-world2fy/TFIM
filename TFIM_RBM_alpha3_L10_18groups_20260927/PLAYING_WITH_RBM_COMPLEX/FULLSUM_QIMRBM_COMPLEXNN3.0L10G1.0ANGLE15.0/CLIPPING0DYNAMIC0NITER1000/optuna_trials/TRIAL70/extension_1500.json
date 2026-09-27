@@ -1,0 +1,28 @@
+{
+  "g": 1.0,
+  "angle": 15.0,
+  "trial": 70,
+  "path": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL70",
+  "params": {
+    "diag_shift": 1.3805502986117916e-05,
+    "learning_rate": 0.009808327745869424
+  },
+  "status": "complete",
+  "steps": 1500,
+  "initial_energy": -12.381484455537503,
+  "final_energy": -12.381485499335435,
+  "checkpoint_steps": [
+    1037,
+    1076,
+    1116,
+    1158,
+    1202,
+    1247,
+    1294,
+    1342,
+    1393,
+    1445,
+    1500
+  ],
+  "gpu": "1"
+}

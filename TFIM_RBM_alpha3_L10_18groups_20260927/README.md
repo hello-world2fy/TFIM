@@ -1,3 +1,17 @@
+# 更新：全部角度续训至 1500 步
+
+本文件夹沿用原名，现已包含 **g=1.0、1.5 各 13 个角度，共 26 组、260 个保留 trial**。每个 trial 从原第 1000 步参数及优化器状态继续训练 500 步。原先已有的 7.5°、30°、52.5°、75° 结果也已加入本文件夹。
+
+查看 [1500 步结果汇总](summary_1500.csv) 和 [续训验收报告](logs/alpha3_extension_1500/SUMMARY.md)。
+
+实验仍位于原 `PLAYING_WITH_RBM_COMPLEX/.../CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL*/` 中；读取新结果时使用 `checkpoint_variables_1500.mpack` 和 `run_resume_1500.json`。新增中间步骤为 1037、1076、1116、1158、1202、1247、1294、1342、1393、1445、1500。
+
+原数据库、1000 步及之前的 checkpoint 保留。没有重新进行超参数搜索；数据库中的排名和目标值仍是原 1000 步记录。1500 步结果另见每个 trial 的 `extension_1500.json`。原 `summary.csv` / `summary.json` 仍描述第一次 18 组补训，不代表续训后的范围。`package_manifest.json` 是第一次打包的来源记录；当前完整文件校验以重新生成的 `SHA256SUMS` 为准。
+
+以下保留首次交付说明作为历史记录。
+
+---
+
 # TFIM / RBM alpha=3 补训结果
 
 本文件夹是本次 18 组补训结果的独立副本，原始结果未移动或覆盖。

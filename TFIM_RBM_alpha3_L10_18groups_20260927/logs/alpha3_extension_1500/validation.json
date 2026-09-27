@@ -1,0 +1,11 @@
+{
+  "studies": 26,
+  "trials": 260,
+  "steps": 1500,
+  "original_files_unchanged": 55542,
+  "decoded_new_checkpoints": 5720,
+  "exact_energies": {
+    "1.0": -12.381489999654749,
+    "1.5": -16.535254946759192
+  }
+}

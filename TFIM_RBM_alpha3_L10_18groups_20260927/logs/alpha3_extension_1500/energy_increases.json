@@ -1,0 +1,13 @@
+[
+  {
+    "g": 1.0,
+    "angle": 75.0,
+    "trial": 12,
+    "steps": 1500,
+    "energy_1000": -12.37990682492795,
+    "energy_1500": -12.37929481755424,
+    "relative_error_1500": 0.00017729547094659019,
+    "last100_relative_drop": -6.300139008814506e-05,
+    "checkpoint": "/home/tiger/project/basis-dependence-of-RBM-for-TFIM/PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN3.0L10G1.0ANGLE75.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials/TRIAL12/checkpoint_variables_1500.mpack"
+  }
+]
