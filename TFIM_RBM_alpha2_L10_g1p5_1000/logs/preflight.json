@@ -1,0 +1,163 @@
+{
+  "python": "3.12.13",
+  "versions": {
+    "netket": "3.20.5",
+    "jax": "0.7.2",
+    "flax": "0.12.0",
+    "optax": "0.2.6",
+    "optuna": "4.8.0",
+    "numpy": "2.5.3"
+  },
+  "jax_enable_x64": true,
+  "params": {
+    "L": 10,
+    "W": 1,
+    "NR": 1000,
+    "angle": 90.0,
+    "g": 1.5,
+    "model": "QIM",
+    "pbc": false,
+    "NN": 2.0,
+    "architecture": "RBM_COMPLEX",
+    "add": "",
+    "holomorphic": true,
+    "ROOT_DIR": "PLAYING_WITH_RBM_COMPLEX"
+  },
+  "args": {
+    "niter": 1000,
+    "trials": 100,
+    "clipping": false,
+    "runners": 1,
+    "dynamic_hyp": false,
+    "warmup": 1000,
+    "reports": 12
+  },
+  "hilbert_states": 1024,
+  "model": "RBM(\n    # attributes\n    param_dtype = complex\n    activation = log_cosh\n    alpha = 2.0\n    use_hidden_bias = True\n    use_visible_bias = True\n    precision = None\n    kernel_init = init\n    hidden_bias_init = init\n    visible_bias_init = init\n)",
+  "old_records": [
+    {
+      "angle": 7.5,
+      "sampler": "TPESampler",
+      "pruner": "MedianPruner",
+      "pruner_config": {
+        "_percentile": 50.0,
+        "_n_startup_trials": 5,
+        "_n_warmup_steps": 0,
+        "_interval_steps": 1,
+        "_n_min_trials": 1
+      },
+      "saved_trials": [
+        50,
+        51,
+        54,
+        55,
+        56,
+        57,
+        62,
+        82,
+        92,
+        95
+      ],
+      "parameter_dtypes": [
+        "complex128"
+      ],
+      "trial_count": 100
+    },
+    {
+      "angle": 30.0,
+      "sampler": "TPESampler",
+      "pruner": "MedianPruner",
+      "pruner_config": {
+        "_percentile": 50.0,
+        "_n_startup_trials": 5,
+        "_n_warmup_steps": 0,
+        "_interval_steps": 1,
+        "_n_min_trials": 1
+      },
+      "saved_trials": [
+        33,
+        52,
+        58,
+        68,
+        75,
+        76,
+        78,
+        81,
+        89,
+        94
+      ],
+      "parameter_dtypes": [
+        "complex128"
+      ],
+      "trial_count": 100
+    },
+    {
+      "angle": 52.5,
+      "sampler": "TPESampler",
+      "pruner": "MedianPruner",
+      "pruner_config": {
+        "_percentile": 50.0,
+        "_n_startup_trials": 5,
+        "_n_warmup_steps": 0,
+        "_interval_steps": 1,
+        "_n_min_trials": 1
+      },
+      "saved_trials": [
+        11,
+        16,
+        32,
+        43,
+        53,
+        61,
+        62,
+        64,
+        71,
+        96
+      ],
+      "parameter_dtypes": [
+        "complex128"
+      ],
+      "trial_count": 100
+    },
+    {
+      "angle": 75.0,
+      "sampler": "TPESampler",
+      "pruner": "MedianPruner",
+      "pruner_config": {
+        "_percentile": 50.0,
+        "_n_startup_trials": 5,
+        "_n_warmup_steps": 0,
+        "_interval_steps": 1,
+        "_n_min_trials": 1
+      },
+      "saved_trials": [
+        12,
+        13,
+        19,
+        31,
+        32,
+        41,
+        66,
+        80,
+        84,
+        96
+      ],
+      "parameter_dtypes": [
+        "complex128"
+      ],
+      "trial_count": 100
+    }
+  ],
+  "sampler_signature": "(*, consider_prior: 'bool' = True, prior_weight: 'float' = 1.0, consider_magic_clip: 'bool' = True, consider_endpoints: 'bool' = False, n_startup_trials: 'int' = 10, n_ei_candidates: 'int' = 24, gamma: 'Callable[[int], int]' = <function default_gamma at 0x7f448816cfe0>, weights: 'Callable[[int], np.ndarray]' = <function default_weights at 0x7f4488198fe0>, seed: 'int | None' = None, multivariate: 'bool' = False, group: 'bool' = False, warn_independent_sampling: 'bool' = True, constant_liar: 'bool' = False, constraints_func: 'Callable[[FrozenTrial], Sequence[float]] | None' = None, categorical_distance_func: 'dict[str, Callable[[CategoricalChoiceType, CategoricalChoiceType], float]] | None' = None) -> 'None'",
+  "pruner_signature": "(n_startup_trials: int = 5, n_warmup_steps: int = 0, interval_steps: int = 1, *, n_min_trials: int = 1) -> None",
+  "source_commit": "77c3ab0c31e3bd4229544774c1f1f1389c21eda6",
+  "source_sha256": {
+    "study.py": "c8893524dc8b52a3d669211f5eb55c6db7ec6e581283a7f51b8a852c36156627",
+    "config.py": "8384a4e38ef2fa7d4afc7b59e328f06208c7fafcd4fc9a27dae0f67523b46185",
+    "define_models.py": "dc271d480313c0652569ce36c9e347dbf103399c8994df1a83b428d9b9f40e33",
+    "hams.py": "62dd83c962e515b7a2cf3f5d1fe3e118e9cb54945898cd3189cf5c906dcafe89",
+    "optuna_setup.py": "4e0137237f020c05dce88cb7e1a322aa3fb900ad2ec8683b53d1c5014293bc54",
+    "NQS_utils.py": "22fe33b3d3757e8e5e8c0e5b4c78da4c09250c2876280d62b2a53779e30d0cff"
+  },
+  "historical_environment_limit": "Original NetKet/JAX/Python version lock unavailable. Current source execution and original complex128 checkpoint precision verified; Optuna DB metadata records 4.8.0. Historical sampler object not serialized in DB; TPE/Median inferred from unmodified load_study path under matching Optuna version."
+}

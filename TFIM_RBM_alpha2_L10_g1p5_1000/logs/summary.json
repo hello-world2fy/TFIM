@@ -1,0 +1,327 @@
+[
+  {
+    "angle": 0.0,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 53,
+      "PRUNED": 47
+    },
+    "selected_trial_numbers": [
+      99,
+      54,
+      86,
+      34,
+      64,
+      36,
+      98,
+      41,
+      51,
+      85
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.53525489459653,
+    "best_checkpoint_energy": -16.535254894626018,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE0.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 7.5,
+    "status": "existing_preserved",
+    "trial_states": {
+      "COMPLETE": 41,
+      "PRUNED": 59
+    },
+    "selected_trial_numbers": [
+      56,
+      82,
+      92,
+      95,
+      62,
+      54,
+      57,
+      55,
+      50,
+      51
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.535254582279478,
+    "best_checkpoint_energy": -16.535254582419054,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE7.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 15.0,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 24,
+      "PRUNED": 76
+    },
+    "selected_trial_numbers": [
+      48,
+      47,
+      39,
+      28,
+      81,
+      62,
+      64,
+      33,
+      97,
+      76
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.535254070129916,
+    "best_checkpoint_energy": -16.535254070497786,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE15.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 22.5,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 36,
+      "PRUNED": 64
+    },
+    "selected_trial_numbers": [
+      57,
+      61,
+      58,
+      60,
+      59,
+      91,
+      55,
+      63,
+      54,
+      26
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.53525182058604,
+    "best_checkpoint_energy": -16.535251821368245,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE22.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 30.0,
+    "status": "existing_preserved",
+    "trial_states": {
+      "COMPLETE": 59,
+      "PRUNED": 41
+    },
+    "selected_trial_numbers": [
+      58,
+      52,
+      89,
+      76,
+      94,
+      68,
+      75,
+      33,
+      81,
+      78
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.53524748144674,
+    "best_checkpoint_energy": -16.53524748297371,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE30.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 37.5,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 37,
+      "PRUNED": 63
+    },
+    "selected_trial_numbers": [
+      72,
+      92,
+      42,
+      17,
+      97,
+      51,
+      46,
+      73,
+      71,
+      62
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.535231119738107,
+    "best_checkpoint_energy": -16.535231122039967,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE37.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 45.0,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 55,
+      "PRUNED": 45
+    },
+    "selected_trial_numbers": [
+      46,
+      50,
+      77,
+      48,
+      91,
+      72,
+      87,
+      51,
+      58,
+      76
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.535177683865033,
+    "best_checkpoint_energy": -16.535177726338404,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE45.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 52.5,
+    "status": "existing_preserved",
+    "trial_states": {
+      "COMPLETE": 37,
+      "PRUNED": 63
+    },
+    "selected_trial_numbers": [
+      61,
+      43,
+      16,
+      62,
+      64,
+      71,
+      32,
+      53,
+      96,
+      11
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.534975581853736,
+    "best_checkpoint_energy": -16.534975684552872,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE52.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 60.0,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 26,
+      "PRUNED": 74
+    },
+    "selected_trial_numbers": [
+      61,
+      75,
+      79,
+      39,
+      31,
+      81,
+      43,
+      80,
+      25,
+      37
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.534618903489058,
+    "best_checkpoint_energy": -16.53461895744922,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE60.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 67.5,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 40,
+      "PRUNED": 60
+    },
+    "selected_trial_numbers": [
+      98,
+      61,
+      53,
+      99,
+      43,
+      14,
+      47,
+      72,
+      76,
+      46
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.533904850763438,
+    "best_checkpoint_energy": -16.53390550176471,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE67.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 75.0,
+    "status": "existing_preserved",
+    "trial_states": {
+      "COMPLETE": 30,
+      "PRUNED": 70
+    },
+    "selected_trial_numbers": [
+      84,
+      41,
+      12,
+      13,
+      32,
+      66,
+      31,
+      19,
+      80,
+      96
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.533672453657694,
+    "best_checkpoint_energy": -16.533672785209504,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE75.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 82.5,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 20,
+      "PRUNED": 80
+    },
+    "selected_trial_numbers": [
+      56,
+      22,
+      83,
+      61,
+      76,
+      81,
+      99,
+      52,
+      74,
+      53
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.533264711274217,
+    "best_checkpoint_energy": -16.533265167677882,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE82.5/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  },
+  {
+    "angle": 90.0,
+    "status": "complete",
+    "trial_states": {
+      "COMPLETE": 21,
+      "PRUNED": 79
+    },
+    "selected_trial_numbers": [
+      51,
+      11,
+      41,
+      42,
+      25,
+      10,
+      81,
+      23,
+      33,
+      8
+    ],
+    "steps": 1000,
+    "saved_trials": 10,
+    "best_objective_energy": -16.53525427995822,
+    "best_checkpoint_energy": -16.535254280497174,
+    "checkpoint_directory": "PLAYING_WITH_RBM_COMPLEX/FULLSUM_QIMRBM_COMPLEXNN2.0L10G1.5ANGLE90.0/CLIPPING0DYNAMIC0NITER1000/optuna_trials"
+  }
+]

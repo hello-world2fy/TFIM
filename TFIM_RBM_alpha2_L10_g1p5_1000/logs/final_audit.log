@@ -1,0 +1,15 @@
+Protected files unchanged: 87023
+VALIDATED 0.0 {'COMPLETE': 53, 'PRUNED': 47}
+VALIDATED 7.5 {'COMPLETE': 41, 'PRUNED': 59}
+VALIDATED 15.0 {'COMPLETE': 24, 'PRUNED': 76}
+VALIDATED 22.5 {'COMPLETE': 36, 'PRUNED': 64}
+VALIDATED 30.0 {'COMPLETE': 59, 'PRUNED': 41}
+VALIDATED 37.5 {'COMPLETE': 37, 'PRUNED': 63}
+VALIDATED 45.0 {'COMPLETE': 55, 'PRUNED': 45}
+VALIDATED 52.5 {'COMPLETE': 37, 'PRUNED': 63}
+VALIDATED 60.0 {'COMPLETE': 26, 'PRUNED': 74}
+VALIDATED 67.5 {'COMPLETE': 40, 'PRUNED': 60}
+VALIDATED 75.0 {'COMPLETE': 30, 'PRUNED': 70}
+VALIDATED 82.5 {'COMPLETE': 20, 'PRUNED': 80}
+VALIDATED 90.0 {'COMPLETE': 21, 'PRUNED': 79}
+PASS {'new_studies': 9, 'new_search_trials': 900, 'new_final_models': 90, 'steps': 1000, 'new_decoded_checkpoints': 2160, 'total_decoded_checkpoints': 3120, 'protected_files_unchanged': 87023, 'coverage_angles': [0.0, 7.5, 15.0, 22.5, 30.0, 37.5, 45.0, 52.5, 60.0, 67.5, 75.0, 82.5, 90.0], 'parameter_dtype': 'complex128', 'parameter_kernel_shape': [10, 20], 'hilbert_states': 1024, 'jax_enable_x64': True, 'max_abs_checkpoint_log_difference': 1.7587264373730704e-06, 'rbm_checkpoint_py_found': False}

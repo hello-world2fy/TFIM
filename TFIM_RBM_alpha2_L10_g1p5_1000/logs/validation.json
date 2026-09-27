@@ -1,0 +1,33 @@
+{
+  "new_studies": 9,
+  "new_search_trials": 900,
+  "new_final_models": 90,
+  "steps": 1000,
+  "new_decoded_checkpoints": 2160,
+  "total_decoded_checkpoints": 3120,
+  "protected_files_unchanged": 87023,
+  "coverage_angles": [
+    0.0,
+    7.5,
+    15.0,
+    22.5,
+    30.0,
+    37.5,
+    45.0,
+    52.5,
+    60.0,
+    67.5,
+    75.0,
+    82.5,
+    90.0
+  ],
+  "parameter_dtype": "complex128",
+  "parameter_kernel_shape": [
+    10,
+    20
+  ],
+  "hilbert_states": 1024,
+  "jax_enable_x64": true,
+  "max_abs_checkpoint_log_difference": 1.7587264373730704e-06,
+  "rbm_checkpoint_py_found": false
+}

@@ -1,0 +1,9 @@
+{
+  "netket_fidelity": {
+    "url": "https://github.com/netket/netket_fidelity.git",
+    "vcs_info": {
+      "vcs": "git",
+      "commit_id": "6295df9f66c21bcd4726422a3cbd3269551374eb"
+    }
+  }
+}

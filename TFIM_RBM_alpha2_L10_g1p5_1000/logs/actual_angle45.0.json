@@ -1,0 +1,37 @@
+{
+  "params": {
+    "L": 10,
+    "W": 1,
+    "NR": 1000,
+    "angle": 45.0,
+    "g": 1.5,
+    "model": "QIM",
+    "pbc": false,
+    "NN": 2.0,
+    "architecture": "RBM_COMPLEX",
+    "add": "",
+    "holomorphic": true,
+    "ROOT_DIR": "PLAYING_WITH_RBM_COMPLEX"
+  },
+  "args": {
+    "niter": 1000,
+    "trials": 100,
+    "clipping": false,
+    "runners": 1,
+    "dynamic_hyp": false,
+    "warmup": 1000,
+    "reports": 12
+  },
+  "jax_enable_x64": true,
+  "hilbert_states": 1024,
+  "sampler": "TPESampler",
+  "pruner": "MedianPruner",
+  "pruner_config": {
+    "_percentile": 50.0,
+    "_n_startup_trials": 5,
+    "_n_warmup_steps": 0,
+    "_interval_steps": 1,
+    "_n_min_trials": 1
+  },
+  "gpu": "5"
+}

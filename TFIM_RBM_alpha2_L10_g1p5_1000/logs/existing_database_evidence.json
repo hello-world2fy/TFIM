@@ -1,0 +1,234 @@
+[
+  {
+    "angle": 7.5,
+    "version_info": [
+      [
+        1,
+        12,
+        "4.8.0"
+      ]
+    ],
+    "distributions": [
+      [
+        "learning_rate",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.01, \"log\": true}}"
+      ],
+      [
+        "diag_shift",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.1, \"log\": true}}"
+      ]
+    ],
+    "report_steps": [
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        13
+      ],
+      [
+        21
+      ],
+      [
+        34
+      ],
+      [
+        55
+      ],
+      [
+        89
+      ],
+      [
+        145
+      ],
+      [
+        235
+      ],
+      [
+        381
+      ],
+      [
+        617
+      ],
+      [
+        1000
+      ]
+    ]
+  },
+  {
+    "angle": 30.0,
+    "version_info": [
+      [
+        1,
+        12,
+        "4.8.0"
+      ]
+    ],
+    "distributions": [
+      [
+        "learning_rate",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.01, \"log\": true}}"
+      ],
+      [
+        "diag_shift",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.1, \"log\": true}}"
+      ]
+    ],
+    "report_steps": [
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        13
+      ],
+      [
+        21
+      ],
+      [
+        34
+      ],
+      [
+        55
+      ],
+      [
+        89
+      ],
+      [
+        145
+      ],
+      [
+        235
+      ],
+      [
+        381
+      ],
+      [
+        617
+      ],
+      [
+        1000
+      ]
+    ]
+  },
+  {
+    "angle": 52.5,
+    "version_info": [
+      [
+        1,
+        12,
+        "4.8.0"
+      ]
+    ],
+    "distributions": [
+      [
+        "learning_rate",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.01, \"log\": true}}"
+      ],
+      [
+        "diag_shift",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.1, \"log\": true}}"
+      ]
+    ],
+    "report_steps": [
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        13
+      ],
+      [
+        21
+      ],
+      [
+        34
+      ],
+      [
+        55
+      ],
+      [
+        89
+      ],
+      [
+        145
+      ],
+      [
+        235
+      ],
+      [
+        381
+      ],
+      [
+        617
+      ],
+      [
+        1000
+      ]
+    ]
+  },
+  {
+    "angle": 75.0,
+    "version_info": [
+      [
+        1,
+        12,
+        "4.8.0"
+      ]
+    ],
+    "distributions": [
+      [
+        "learning_rate",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.01, \"log\": true}}"
+      ],
+      [
+        "diag_shift",
+        "{\"name\": \"FloatDistribution\", \"attributes\": {\"step\": null, \"low\": 1e-05, \"high\": 0.1, \"log\": true}}"
+      ]
+    ],
+    "report_steps": [
+      [
+        5
+      ],
+      [
+        8
+      ],
+      [
+        13
+      ],
+      [
+        21
+      ],
+      [
+        34
+      ],
+      [
+        55
+      ],
+      [
+        89
+      ],
+      [
+        145
+      ],
+      [
+        235
+      ],
+      [
+        381
+      ],
+      [
+        617
+      ],
+      [
+        1000
+      ]
+    ]
+  }
+]
